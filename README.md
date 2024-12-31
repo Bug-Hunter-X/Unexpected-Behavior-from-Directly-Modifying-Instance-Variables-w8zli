@@ -1,0 +1,1 @@
+This example highlights a subtle bug in Ruby related to directly manipulating instance variables outside of defined methods. While functional, this approach violates good object-oriented programming practices and can create difficult-to-debug problems in larger applications.  The solution demonstrates using accessor methods for better encapsulation and maintainability.
